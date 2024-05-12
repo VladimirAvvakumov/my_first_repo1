@@ -207,3 +207,4 @@ pull request
 ```sh
 dotnet new gitignore
 ```
+йо продолжаем
